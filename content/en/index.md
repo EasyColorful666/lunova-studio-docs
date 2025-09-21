@@ -6,23 +6,19 @@ navigation: false
 ::hero
 ---
 announcement:
-  title: 'shadcn-docs-nuxt is the best! ψ(｀∇´)ψ'
+  title: 'MinecraftLaunch 4.0 已发布!'
   icon: '🎉'
-  to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
+  to: https://github.com/Lunova-Studio/MinecraftLaunch
   target: _blank
 actions:
-  - name: Bilibili
-    to: https://space.bilibili.com/2123349162
-    leftIcon: 'ri:bilibili-fill'
-  - name: GitHub
-    variant: outline
-    to: https://github.com/Rwagsu
+  - name: 查看我们的 GitHub 页面
+    to: https://github.com/Lunova-Studio
     leftIcon: 'lucide:github'
 ---
 
 #title
-Awesome RwagsuOwO!
+Lunova Docs
 
 #description
-Rwagsu's Official D&B! (Though the homepage is temporary(。・ω・。))
+Lunova Studio 官方文档站！🥳🥳🥳
 ::
