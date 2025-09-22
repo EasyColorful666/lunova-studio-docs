@@ -8,7 +8,7 @@ icon: lucide:info
 ---
 actions:
   - name: 查看星标 Blogs
-    to: /blog/starred/beststarredblog
+    to: /blog/starred/best_starred_blog
     leftIcon: lucide:star
   - name: 查看归档 Blogs
     variant: outline
