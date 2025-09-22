@@ -48,8 +48,8 @@ export default defineAppConfig({
 
             // Logo
             logo: {
-                light: '/icons/lunova_studio.png',
-                dark: '/icons/lunova_studio.png',
+                light: 'https://file.lingke.ink/ls/icons/lunova_studio.png',
+                dark: 'https://file.lingke.ink/ls/icons/lunova_studio.png',
             },
 
             // Nav bar
@@ -62,19 +62,19 @@ export default defineAppConfig({
                             title: 'MinecraftLaunch',
                             to: '/minecraftlaunch',
                             description: 'The next-generation versatile and modular high-performance Minecraft startup core.',
-                            icon: '/icons/minecraftlaunch.png',
+                            icon: 'https://file.lingke.ink/ls/icons/minecraftlaunch.png',
                         },
                         {
                             title: 'Monet',
                             to: '/monet',
                             description: ".NET Material You Style Color Library Developed Based on Google's Dynamic Color Themes.",
-                            icon: '/icons/monet.png',
+                            icon: 'https://file.lingke.ink/ls/icons/monet.png',
                         },
                         {
                             title: 'WonderLab',
                             to: '/wonderlab',
                             description: "A new generation Minecraft launcher.",
-                            icon: '/icons/wonderlab.png',
+                            icon: 'https://file.lingke.ink/ls/icons/wonderlab.png',
                         }
                     ],
                 },
@@ -99,7 +99,7 @@ export default defineAppConfig({
                 
                 // Official Website
                 {
-                    icon: '/icons/lunova_studio.png',
+                    icon: 'https://file.lingke.ink/ls/icons/lunova_studio.png',
                     to: 'https://lunova.studio/',
                     target: '_blank',
                 },
@@ -144,7 +144,7 @@ export default defineAppConfig({
                 // Official Website
                 {
                     title: "Lunova Studio Official Website",
-                    icon: '/icons/lunova_studio.png',
+                    icon: 'https://file.lingke.ink/ls/icons/lunova_studio.png',
                     to: 'https://lunova.studio/',
                     target: '_blank',
                 },
@@ -175,7 +175,7 @@ export default defineAppConfig({
                 
                 // Official Website
                 {
-                    icon: '/icons/lunova_studio.png',
+                    icon: 'https://file.lingke.ink/ls/icons/lunova_studio.png',
                     to: 'https://lunova.studio/',
                     target: '_blank',
                 },
