@@ -60,19 +60,19 @@ export default defineAppConfig({
                     links: [
                         {
                             title: 'MinecraftLaunch',
-                            to: '/minecraftlaunch',
+                            to: '/minecraftlaunch/home',
                             description: 'The next-generation versatile and modular high-performance Minecraft startup core.',
                             icon: 'https://file.lingke.ink/ls/icons/minecraftlaunch.png',
                         },
                         {
                             title: 'Monet',
-                            to: '/monet',
+                            to: '/monet/home',
                             description: ".NET Material You Style Color Library Developed Based on Google's Dynamic Color Themes.",
                             icon: 'https://file.lingke.ink/ls/icons/monet.png',
                         },
                         {
                             title: 'WonderLab',
-                            to: '/wonderlab',
+                            to: '/wonderlab/home',
                             description: "A new generation Minecraft launcher.",
                             icon: 'https://file.lingke.ink/ls/icons/wonderlab.png',
                         }
@@ -82,7 +82,7 @@ export default defineAppConfig({
                 // Blogs
                 {
                     title: 'Blog',
-                    to: '/blog',
+                    to: '/blog/home',
                     target: '_self',
                     showLinkIcon: false,
                 },
@@ -90,7 +90,7 @@ export default defineAppConfig({
                 // About
                 {
                     title: 'About',
-                    to: '/about',
+                    to: '/about/home',
                     target: '_self',
                     showLinkIcon: false,
                 },
