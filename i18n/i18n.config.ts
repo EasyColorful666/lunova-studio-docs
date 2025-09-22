@@ -13,7 +13,7 @@ export default defineI18nConfig(() => ({
       FOOTER_CREDIT:
         "Copyright © 2025 Lunova Studio. Built with shadcn-docs-nuxt.",
 
-      "Documentation GitHub repositor": "文档 GitHub 仓库",
+      "Documentation GitHub repository": "文档 GitHub 仓库",
       "Lunova Studio Official Website": "Lunova Studio 官网",
 
       // Customize
@@ -34,6 +34,7 @@ export default defineI18nConfig(() => ({
       // Nav bar
       Docs: "文档",
       Blog: "Blog",
+      About: '关于',
 
       "The next-generation versatile and modular high-performance Minecraft startup core.":
         "模块化高性能的 Minecraft 启动核心.",
@@ -64,7 +65,7 @@ export default defineI18nConfig(() => ({
 
       FOOTER_CREDIT:
         "Copyright © 2025 Lunova Studio. Built with shadcn-docs-nuxt.",
-      "Documentation GitHub repositor": "Documentation GitHub repositor",
+      "Documentation GitHub repository": "Documentation GitHub repository",
       "Lunova Studio Official Website": "Lunova Studio Official Website",
 
       // Customize
@@ -86,6 +87,7 @@ export default defineI18nConfig(() => ({
       // Nav bar
       Docs: "Docs",
       Blog: "Blog",
+      About: 'About',
 
       "The next-generation versatile and modular high-performance Minecraft startup core.":
         "The next-generation versatile and modular high-performance Minecraft startup core.",

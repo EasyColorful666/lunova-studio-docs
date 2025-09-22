@@ -86,6 +86,14 @@ export default defineAppConfig({
                     target: '_self',
                     showLinkIcon: false,
                 },
+
+                // About
+                {
+                    title: 'About',
+                    to: '/about',
+                    target: '_self',
+                    showLinkIcon: false,
+                },
             ],
 
             // Links
