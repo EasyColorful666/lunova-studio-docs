@@ -31,7 +31,7 @@ Lunova Studio 官方文档站！🥳🥳🥳
 
   ::card
   ---
-  icon: https://file.lingke.ink/ls/icons/minecraftlaunch.png
+  icon: https://file.lingke.ink/ls/ml.png
   iconSize: 64
   to: /minecraftlaunch/home
   ---
@@ -45,7 +45,7 @@ Lunova Studio 官方文档站！🥳🥳🥳
   
   ::card
   ---
-  icon: https://file.lingke.ink/ls/icons/monet.png
+  icon: https://file.lingke.ink/ls/monet.png
   iconSize: 64
   to: /monet/home
   ---
@@ -59,7 +59,7 @@ Lunova Studio 官方文档站！🥳🥳🥳
   
   ::card
   ---
-  icon: https://file.lingke.ink/ls/icons/wonderlab.png
+  icon: https://file.lingke.ink/ls/wl.png
   iconSize: 64
   to: /wonderlab/home
   ---

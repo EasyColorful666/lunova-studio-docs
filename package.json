@@ -11,6 +11,7 @@
     },
     "dependencies": {
         "@giscus/vue": "^3.1.1",
+        "@waline/client": "^3.6.0",
         "nuxt": "^3.17.6",
         "shadcn-docs-nuxt": "^1.1.1",
         "vue": "^3.5.17",
