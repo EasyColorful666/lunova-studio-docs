@@ -9,7 +9,7 @@
         <LayoutPrevNext />
 
         <!-- 内部评论系统-可专用审核-有专属标识 -->
-        <Waline serverURL="https://pl.mcols.cn" path="path" dark="auto" login="force" noCopyright="true"/>
+        <Waline serverURL="https://pl.mcols.cn" path="path" login="force" noCopyright="true"/>
 
         <!-- giscus 
         <Giscus repo="Lunova-Studio/lunova-studio.github.io" repo-id="R_kgDOKAu7Mw" category="Comments" category-id="DIC_kwDOKAu7M84Cvrch"
@@ -48,8 +48,6 @@
     import '@waline/client/style';
 
     const serverURL = 'https://pl.mcols.cn';
-    const dark = 'html[data-theme="dark"]';
-    const login = 'force';
     const path = computed(() => useRoute().path);
 </script>
 <style lang="css">
