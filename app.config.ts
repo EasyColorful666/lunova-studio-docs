@@ -25,7 +25,7 @@ export default defineAppConfig({
         banner: {
             enable: true,
             showClose: true,
-            content: '本文档仍在测试，出现加载问题可刷新尝试！',
+            content: '本文档卡顿问题已经解决, 请大家在安装依赖时务必添加 `--frozen-lockfile` 参数 (添加之前在本地允许脚本) 以避免脚本未运行导致的网页 Bug (*`0´)θ☆(メ°皿°)ﾉ ',
             target: '_blank',
             border: true,
         },
