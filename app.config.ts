@@ -25,7 +25,7 @@ export default defineAppConfig({
         banner: {
             enable: true,
             showClose: true,
-            content: '本文档卡顿问题已经解决, 请大家在安装依赖时务必添加 `--frozen-lockfile` 参数 (添加之前在本地允许脚本) 以避免脚本未运行导致的网页 Bug (*`0´)θ☆(メ°皿°)ﾉ ',
+            content: '本文档卡顿问题已经解决, 请大家在编写文档时务必删除所有遗漏的 tsx 元素以避免混入了奇怪的 HTML 标签导致的网页 Bug (*`0´)θ☆(メ°皿°)ﾉ ',
             target: '_blank',
             border: true,
         },
