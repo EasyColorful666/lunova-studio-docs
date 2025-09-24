@@ -25,7 +25,7 @@ export default defineAppConfig({
         banner: {
             enable: true,
             showClose: true,
-            content: 'Blessing Studio 已经更名为 Lunova Studio，感谢各位一直以来的支持，请访问新站点 lunova.studio',
+            content: '本文档仍在测试，出现加载问题可刷新尝试！',
             target: '_blank',
             border: true,
         },
@@ -62,19 +62,19 @@ export default defineAppConfig({
                             title: 'MinecraftLaunch',
                             to: '/minecraftlaunch/home',
                             description: 'The next-generation versatile and modular high-performance Minecraft startup core.',
-                            icon: 'https://file.lingke.ink/ls/icons/minecraftlaunch.png',
+                            icon: 'https://file.lingke.ink/ls/ml.png',
                         },
                         {
                             title: 'Monet',
                             to: '/monet/home',
                             description: ".NET Material You Style Color Library Developed Based on Google's Dynamic Color Themes.",
-                            icon: 'https://file.lingke.ink/ls/icons/monet.png',
+                            icon: 'https://file.lingke.ink/ls/monet.png',
                         },
                         {
                             title: 'WonderLab',
                             to: '/wonderlab/home',
                             description: "A new generation Minecraft launcher.",
-                            icon: 'https://file.lingke.ink/ls/icons/wonderlab.png',
+                            icon: 'https://file.lingke.ink/ls/wl.png',
                         }
                     ],
                 },
