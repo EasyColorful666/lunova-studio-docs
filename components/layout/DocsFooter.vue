@@ -9,7 +9,7 @@
         <LayoutPrevNext />
 
         <!-- 内部评论系统-可专用审核-有专属标识 -->
-        <Waline serverURL="https://pl.mcols.cn" path="path" login="force" noCopyright="true"/>
+        <Waline serverURL="https://pl.mcols.cn" :path="path" login="force" noCopyright="true"/>
 
         <!-- giscus 
         <Giscus repo="Lunova-Studio/lunova-studio.github.io" repo-id="R_kgDOKAu7Mw" category="Comments" category-id="DIC_kwDOKAu7M84Cvrch"
