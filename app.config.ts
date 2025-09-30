@@ -25,7 +25,7 @@ export default defineAppConfig({
         banner: {
             enable: true,
             showClose: true,
-            content: '本文档卡顿问题已经解决, 请大家在编写文档时务必删除所有遗漏的 tsx 元素以避免混入了奇怪的 HTML 标签导致的网页 Bug (*`0´)θ☆(メ°皿°)ﾉ ',
+            content: '我们近期更新了服务条款，如需阅读，请前往“条款”分页',
             target: '_blank',
             border: true,
         },
