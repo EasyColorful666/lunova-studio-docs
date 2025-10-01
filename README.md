@@ -32,3 +32,8 @@ pnpm run generate
 ```
 
 此命令会将静态内容生成到 `.output` 目录中，并且可以使用任何静态内容托管服务进行部署
+
+<div align="center">
+  <img src="https://file.lingke.ink/mcda/project.webp" alt="你的浏览器不支持SVG显示，此项目为 MCDA 认证优秀项目，请前往 mcdalliance.cn" height="70">
+</div>
+
