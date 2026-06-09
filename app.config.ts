@@ -25,7 +25,7 @@ export default defineAppConfig({
         banner: {
             enable: true,
             showClose: true,
-            content: '我们近期更新了服务条款，如需阅读，请前往“条款”分页',
+            content: '我们丢失了 lunova.studio 的控制权, 现在该域名与我们再无关联. 且该域名可能出现了 DNS 污染, 注意不要相信该网站的任何内容.',
             target: '_blank',
             border: true,
         },
@@ -103,15 +103,15 @@ export default defineAppConfig({
                     icon: 'lucide:github',
                     to: 'https://github.com/Lunova-Studio/lunova-studio.github.io',
                     target: '_blank',
-                },
+                }，
                 
                 // Official Website
                 {
                     icon: 'https://file.lingke.ink/ls/icons/lunova_studio.png',
-                    to: 'https://lunova.studio/',
+                    to: 'https://lunova-studio.github.io/',
                     target: '_blank',
                 },
-            ],
+            ]，
         },
 
         // Aside
