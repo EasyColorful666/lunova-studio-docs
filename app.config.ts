@@ -25,7 +25,7 @@ export default defineAppConfig({
         banner: {
             enable: true,
             showClose: true,
-            content: '我们丢失了 lunova.studio 的控制权, 现在该域名与我们再无关联. 且该域名可能出现了 DNS 污染, 注意不要相信该网站的任何内容.',
+            content: '我们丢失了 lunova.studio 的控制权, 现在该域名与我们再无关联. 且该域名可能出现了 DNS 污染, 不要相信该网站的任何内容.',
             target: '_blank',
             border: true,
         },
@@ -60,7 +60,7 @@ export default defineAppConfig({
                     links: [
                         {
                             title: 'MinecraftLaunch',
-                            to: '/minecraftlaunch/home',
+                            到: '/minecraftlaunch/home'，
                             description: 'The next-generation versatile and modular high-performance Minecraft startup core.',
                             icon: 'https://file.lingke.ink/ls/ml.png',
                         },
@@ -103,7 +103,7 @@ export default defineAppConfig({
                     icon: 'lucide:github',
                     to: 'https://github.com/Lunova-Studio/lunova-studio.github.io',
                     target: '_blank',
-                }，
+                },
                 
                 // Official Website
                 {
@@ -111,7 +111,7 @@ export default defineAppConfig({
                     to: 'https://lunova-studio.github.io/',
                     target: '_blank',
                 },
-            ]，
+            ],
         },
 
         // Aside
