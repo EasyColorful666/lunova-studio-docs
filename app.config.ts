@@ -60,7 +60,7 @@ export default defineAppConfig({
                     links: [
                         {
                             title: 'MinecraftLaunch',
-                            到: '/minecraftlaunch/home'，
+                            to: '/minecraftlaunch/home',
                             description: 'The next-generation versatile and modular high-performance Minecraft startup core.',
                             icon: 'https://file.lingke.ink/ls/ml.png',
                         },
