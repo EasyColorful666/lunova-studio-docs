@@ -4,3 +4,6 @@ ignoredBuiltDependencies:
   - esbuild
   - sharp
   - vue-demi
+packages:
+  - "packages/**"
+  - "apps/**"
