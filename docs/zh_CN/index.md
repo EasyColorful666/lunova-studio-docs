@@ -27,4 +27,8 @@ features:
   - icon: 🛠️
     title: 开发文档
     details: 正在使用来自 Blessing Studio 的开源项目？在这里可以查看我们的技术支持文档
+  
+  # - icon: 🖖
+  #   title: 敏捷开发
+  #   details: 项目提供多种语言指导，未来还将提供 SDK 
 ---
